@@ -1,0 +1,6 @@
+[default]
+log_path = "/root/"
+
+[memcache_server]
+memcache_host ="127.0.0.1"
+memcache_port = "11211"
